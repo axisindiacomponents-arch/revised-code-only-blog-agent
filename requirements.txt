@@ -1,0 +1,5 @@
+anthropic
+python-docx
+watchdog
+requests
+python-dotenv
